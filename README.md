@@ -2,7 +2,7 @@
 
 Solo horror game built in Unreal Engine 5 over three months, with gameplay systems written in C++ on top of a Blueprint foundation.
 
-**▶ Play it:** Incoming - playable build, Windows  
+**▶ Play it:** [DeadWater](https://jeancab.itch.io/dead-water)  
 **Start here:** [`ScriptedEvents/CPP_Sound_swim`](Source/ScriptedEvents/CPP_Sound_swim.cpp) and [`/Interfaces`](Source/Interfaces)
 
 ---
